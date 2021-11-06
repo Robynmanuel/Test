@@ -1,12 +1,12 @@
 Testing Github <br>
 Basic Commands
 
-  $ git add . # adds all files in repository
-  $ git commit -m "Message" # commits file
-  $ git status . # helps track files before commit
-  $ git logs # show previous git logs
-  $ git push origin BRANCH_NAME # helps sync branch with remote/origin (whatever is on github)
-  $ git pull BRANCH_NAME # syncs local disk with origin
-  $ git clone REPOSITORY_NAME 
-  $ git branch 
-  $ git checkout -b BRANCH_NAME
+  $ git add . # adds all files in repository<br>
+  $ git commit -m "Message" # commits file<br>
+  $ git status . # helps track files before commit<br>
+  $ git logs # show previous git logs<br>
+  $ git push origin BRANCH_NAME # helps sync branch with remote/origin (whatever is on github)<br>
+  $ git pull BRANCH_NAME # syncs local disk with origin<br>
+  $ git clone REPOSITORY_NAME <br>
+  $ git branch <br>
+  $ git checkout -b BRANCH_NAME<br>
