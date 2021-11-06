@@ -1,4 +1,4 @@
-Testing Github 
+Testing Github <br>
 Basic Commands
 
   $ git add . # adds all files in repository
